@@ -1,6 +1,6 @@
 {
   "name": "Hamster Combat",
-  "short_name": "HamCombat",
+  "short_name": "HamsCombat",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
